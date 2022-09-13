@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello everyone. my name is Oleksandra. I have more then 10 years experience in sales, but last years I am keen on quality assurance. Now I still study a lot in this subject, and automatization  - is cherry on my cake :)
+Hello everyone. My name is Oleksandra. I have more then 10 years experience in sales, but last years I am keen on quality assurance. Now I still study a lot in this subject, and automatization  - is cherry on my cake :)
 So I hope this portfolio will be constantly updated with my achievements and new skills. And finally I will start my career in my very first IT-company.
 
 # Tools
@@ -20,9 +20,9 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 
-# Coursese
+# Courses
 * Basic course of DataArt
-* Basic course Go of IT
+* Basic course of Go IT
 * Тестирование ПО с Нуля до Первой Работы of Udemi
 * ️QA Automated Testing Portfolio challenge of Dare IT
 
