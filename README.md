@@ -5,6 +5,13 @@ So I hope this portfolio will be constantly updated with my achievements and new
 
 # [Linkedin](www.linkedin.com/in/oleksandra-herasymovych)
 
+# [CV](https://drive.google.com/file/d/1kOXa59hT_265NYr8UYsl4P627JGGMsi1/view?usp=sharing)
+
+# Languages
+* English - upper intermediate
+* Polish - beginner
+* Ukrainian, Russian - native
+
 # Tools
 * Postman
 * Jira
@@ -13,6 +20,7 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Github
 * SCRUM dashboard Trello
 * Test Rail
+* PyCharm
 
 # Tech skills
 * DevTools
@@ -21,6 +29,7 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Creating test cases
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
+* HTML, CSS
 
 # Courses
 * Basic course of DataArt [Certificate](https://drive.google.com/file/d/1cUq0nq0xXys-VSsWYzHJ_NhbFmNowR9y/view?usp=sharing)
