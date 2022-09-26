@@ -3,7 +3,7 @@
 Hello everyone. My name is Oleksandra. I have more then 10 years experience in sales, but last years I am keen on quality assurance. Now I still study a lot in this subject, and automatization  - is cherry on my cake :)
 So I hope this portfolio will be constantly updated with my achievements and new skills. And finally I will start my career in my very first IT-company.
 
-# [Linkedin](www.linkedin.com/in/oleksandra-herasymovych)
+# [Linkedin](linkedin.com/in/oleksandra-herasymovych)
 
 # [CV](https://drive.google.com/file/d/1kOXa59hT_265NYr8UYsl4P627JGGMsi1/view?usp=sharing)
 
