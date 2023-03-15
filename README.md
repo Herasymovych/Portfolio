@@ -30,7 +30,8 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Finding uniqe CSS Selectors and xPaths
 * HTML, CSS (xml parser)
 * Automation test cases using Python, Robot Framework
-* Analysis and clarification of requirements 
+* Analysis and clarification of requirements
+* Using different testing techniques 
 
 # Courses
 * Basic course of DataArt [Certificate](https://drive.google.com/file/d/1cUq0nq0xXys-VSsWYzHJ_NhbFmNowR9y/view?usp=sharing)
