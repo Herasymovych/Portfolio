@@ -49,7 +49,7 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * [Test Cases](https://drive.google.com/file/d/1hthSMuwl3Qcztc8CgTTCKlHXCWpB5fSu/view?usp=sharing)
 * [Test Run](https://drive.google.com/file/d/1KoAKcTzm69Ur1cn5dJuU9Il3MSu8ReFp/view?usp=sharing)
 * # My projects from DataArt
-* [Definitiom of test design technique and test cases](https://docs.google.com/spreadsheets/d/16uhRJdeTqu_EjnrkETjQufL_uPeyjf1L/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
+* [Definition of test design technique and test cases](https://docs.google.com/spreadsheets/d/16uhRJdeTqu_EjnrkETjQufL_uPeyjf1L/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
 * [Bug Report](https://docs.google.com/spreadsheets/d/13EyOmlnVFnFx_H7f63sDvLg5E2-YdJ17/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
 * [Test Summary Report](https://docs.google.com/document/d/1urzR2F7177wk6NGAoIS6JKXjw3nzDMVA/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
 
