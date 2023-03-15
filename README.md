@@ -17,19 +17,20 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Jira
 * Trello
 * Selenium IDE
-* Github
+* PyCharm
+* Github, GitBush, Source Tree
 * SCRUM dashboard Trello
 * Test Rail
-* PyCharm
 
 # Tech skills
-* DevTools
-* SCRUM
-* Software testing
-* Creating test cases
+* DevTools, Windows Breakpoints
+* Web testing
+* Creation and execution check lists, test cases, test run, test summery report
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
-* HTML, CSS
+* HTML, CSS (xml parser)
+* Automation test cases using Python, Robot Framework
+* Analysis and clarification of requirements 
 
 # Courses
 * Basic course of DataArt [Certificate](https://drive.google.com/file/d/1cUq0nq0xXys-VSsWYzHJ_NhbFmNowR9y/view?usp=sharing)
