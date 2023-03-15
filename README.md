@@ -5,7 +5,7 @@ So I hope this portfolio will be constantly updated with my achievements and new
 
 # [Linkedin](https://www.linkedin.com/in/oleksandra-herasymovych/)
 
-# [CV](https://drive.google.com/file/d/1kOXa59hT_265NYr8UYsl4P627JGGMsi1/view?usp=sharing)
+# [CV](https://drive.google.com/file/d/1SGu00p1aM6Aa9ApPxhU0k0dDWsBHJoaV/view?usp=sharing)
 
 # Languages
 * English - upper intermediate
