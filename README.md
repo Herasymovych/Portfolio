@@ -37,11 +37,20 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * Тестирование ПО с Нуля до Первой Работы of Udemi
 * ️QA Automated Testing Portfolio challenge of Dare IT [Certificate](https://drive.google.com/file/d/1LnEu1zEy-H-qroG2eKke_E9ET6WSwPpc/view?usp=sharing)
 
-# My projects
+# My projects from Dare IT
 * [Test cases](https://drive.google.com/drive/folders/1bHxWFg8N61tbv_8AWrfKVshd0jcbcUc2?usp=sharing)
 * [Bug reports](https://drive.google.com/drive/folders/1ltPv1d0IUAsFtGos5lvh6eo7qp7hn_5y?usp=sharing)
 * [robot framework repository](https://github.com/Herasymovych/_robotframework.git)
 * [challenge portfolio](https://github.com/Herasymovych/challenge_portfolio_oleksandra2.git)
 * [selectors xpath](https://github.com/Herasymovych/challenge_portfolio_oleksandra2/blob/ae896dd81c50883a63aa22e4d1c3bff16a64a059/README.md)
-
+# My projects from Udemy
+* [Test cases]([https://drive.google.com/drive/folders/1bHxWFg8N61tbv_8AWrfKVshd0jcbcUc2?usp=sharing](https://docs.google.com/spreadsheets/d/1wmpi-5MLGVNDSw4I0BHOMP3QjtKVb1z6IIru26LAHEo/edit?usp=sharing)
+* [Check list](https://docs.google.com/spreadsheets/d/1JLWQbfamToknnKKt15g7yAhiVuXUAcUWrzRR3FxOVZE/edit?usp=sharing)
+* [Bug Report](https://docs.google.com/spreadsheets/d/1H65owvwIsRIg8QblFAwVt2MXIALKl71EYuCrtMoDXfw/edit?usp=sharing)
+* [Test cases](https://drive.google.com/file/d/1hthSMuwl3Qcztc8CgTTCKlHXCWpB5fSu/view?usp=sharing)
+* [Test run](https://drive.google.com/file/d/1KoAKcTzm69Ur1cn5dJuU9Il3MSu8ReFp/view?usp=sharing)
+* # My projects from DataArt
+* [Definitiom of test design technique and test cases](https://docs.google.com/spreadsheets/d/16uhRJdeTqu_EjnrkETjQufL_uPeyjf1L/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
+* [Bug Report](https://docs.google.com/spreadsheets/d/13EyOmlnVFnFx_H7f63sDvLg5E2-YdJ17/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
+* [Test Summary Report](https://docs.google.com/document/d/1urzR2F7177wk6NGAoIS6JKXjw3nzDMVA/edit?usp=sharing&ouid=117091977514986612577&rtpof=true&sd=true)
 
