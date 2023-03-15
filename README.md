@@ -44,7 +44,6 @@ So I hope this portfolio will be constantly updated with my achievements and new
 * [challenge portfolio](https://github.com/Herasymovych/challenge_portfolio_oleksandra2.git)
 * [selectors xpath](https://github.com/Herasymovych/challenge_portfolio_oleksandra2/blob/ae896dd81c50883a63aa22e4d1c3bff16a64a059/README.md)
 # My projects from Udemy
-* [Test Cases](https://drive.google.com/drive/folders/1bHxWFg8N61tbv_8AWrfKVshd0jcbcUc2?usp=sharing](https://docs.google.com/spreadsheets/d/1wmpi-5MLGVNDSw4I0BHOMP3QjtKVb1z6IIru26LAHEo/edit?usp=sharing)
 * [Check List](https://docs.google.com/spreadsheets/d/1JLWQbfamToknnKKt15g7yAhiVuXUAcUWrzRR3FxOVZE/edit?usp=sharing)
 * [Bug Report](https://docs.google.com/spreadsheets/d/1H65owvwIsRIg8QblFAwVt2MXIALKl71EYuCrtMoDXfw/edit?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1hthSMuwl3Qcztc8CgTTCKlHXCWpB5fSu/view?usp=sharing)
